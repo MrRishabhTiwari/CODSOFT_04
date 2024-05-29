@@ -4,7 +4,7 @@ This Python project presents a simple yet engaging implementation of the classic
 
 ## How to Play:
 1. Clone the repository.
-2. Run the `rock_paper_scissors.py` file.
+2. Run the file.
 3. Choose your move (rock, paper, or scissors) from the dropdown menu.
 4. Click the "Play" button to see the outcome.
 5. The computer's choice will be displayed, and the winner will be determined.
